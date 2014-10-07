@@ -1,0 +1,27 @@
+header h1 {
+    color: #aaa;
+}
+
+body {
+    background-color: #232323;
+    color: #dcdcdc;
+}
+
+.block {
+    background-color: #353535;
+    border-bottom-color: #d9d9d9;
+}
+
+.button {
+    background-color: #fff;
+    border-bottom-color: #d9d9d9;
+}
+
+.block.color {
+    border-left-color: #9af;
+}
+
+input {
+    outline-width: 0px;
+    outline-color: #ddd;
+}
